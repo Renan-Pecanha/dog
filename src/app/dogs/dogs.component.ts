@@ -8,7 +8,7 @@ import{Dog} from '../dogs/dogs'
 })
 export class DogsComponent implements OnInit {
   dog:Dog={
-    id:1
+    id:3
   }
 
   constructor() { }
