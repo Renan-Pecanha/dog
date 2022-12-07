@@ -1,0 +1,33 @@
+.img
+{
+width: 80%;
+height: 80%;
+object-fit: contain;
+}
+
+.container
+{
+background-color: antiquewhite;
+border-radius: 8px;
+}
+
+.container-dog
+{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+height: 400px;
+}
+
+.button
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}

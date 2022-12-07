@@ -1,4 +1,5 @@
-export interface Dog {
-  id: number;
-
+export interface Dog
+{
+  message: string;
+  status: string;
 }
